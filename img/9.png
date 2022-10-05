@@ -79,7 +79,7 @@
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"cf83bfde989e4725939611e59912aa3b"}
 ],
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMzM3MS9xeS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlLmdpdGxpbmsub3JnLmNuL3Fpbmd5aW5nL3Fpbmd5aW5nL3Jhdy9icmFuY2gvbWFzdGVyL3F5LnR4dA=="]}]}],
 
 "parses":[
 {"name":"并发","type":2,"url":"Parallel"},
