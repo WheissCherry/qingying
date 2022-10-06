@@ -6,9 +6,9 @@
 {"key":"Auete","name":"🍀Auete🍀","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🍀Cokemv🍀","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"🍀555电影🍀","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Gitcafe","name":"🍀小纸条(阿里)🍀","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cf83bfde989e4725939611e59912aa3b"},
-{"key":"csp_Yisou","name":"🍀易搜(阿里)🍀","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"cf83bfde989e4725939611e59912aa3b"},
-{"key":"zhaozy","name":"🍀找资源(阿里)🍀","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"cf83bfde989e4725939611e59912aa3b"},
+{"key":"Gitcafe","name":"🍀小纸条(阿里)🍀","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/kebedd69/TVbox-interface/main/token.json"},
+{"key":"csp_Yisou","name":"🍀易搜(阿里)🍀","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/kebedd69/TVbox-interface/main/token.json"},
+{"key":"zhaozy","name":"🍀找资源(阿里)🍀","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/kebedd69/TVbox-interface/main/token.json"},
 {"key":"Lib","name":"🍀Libvio(LINE405)🍀","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🍀乐猪🍁","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_ZJMiao","name":"🍀追剧喵(奇奇)🍁","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
@@ -76,7 +76,7 @@
 {"key":"csp_app_小鸟动漫","name":"🍁小鸟动漫(解析_yh失效)🍁","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"🍁量子资源(切)🍀","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"cf83bfde989e4725939611e59912aa3b"}
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/kebedd69/TVbox-interface/main/token.json"}
 ],
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlLmdpdGxpbmsub3JnLmNuL3Fpbmd5aW5nL3Fpbmd5aW5nL3Jhdy9icmFuY2gvbWFzdGVyL3F5LnR4dA=="]}]}],
@@ -160,4 +160,6 @@
 "k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com",
 "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
 "wallpaper":"https://api.dujin.org/pic/fengjing",
-"spider":"https://raw.iqiq.io/qingying2022/qingying/main/img/25.jpg;md5;00bc13cc444fcf9bd62a46666c6f14ca"}
+//"spider":"https://raw.iqiq.io/qingying2022/qingying/main/img/25.jpg;md5;00bc13cc444fcf9bd62a46666c6f14ca"
+"spider":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/1.jpg;md5;00bc13cc444fcf9bd62a46666c6f14ca"
+}
