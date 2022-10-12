@@ -2,7 +2,7 @@
 {"key":"csp_Czsapp","name":"🍀默认主页🍀","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍀两个Bt🍀","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"🍀剧荒🍀","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"KanSJ_spider","name":"🍀看视界🍀","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"KanSJ_spider","name":"🍀看视界🍀","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"Auete","name":"🍀Auete🍀","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Cokemv","name":"🍀Cokemv🍀","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Dy555","name":"🍀555电影🍀","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
