@@ -1,5 +1,5 @@
 {
-"spider":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/1.jpg;md5;7d83315fc016b06dc3de9f2ff2b2719e",
+"spider":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/1.jpg;md5;7398ae8a101295832c02e2da85b4e729",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlLmdpdGxpbmsub3JnLmNuL3Fpbmd5aW5nL3Fpbmd5aW5nL3Jhdy9icmFuY2gvbWFzdGVyL3F5LnR4dA=="]}]}],
 
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
@@ -8,7 +8,7 @@
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8| mp3| mp4| flv| avi| mkv| rm| wmv| mpg| m4a)"]}],
 
 "sites":[
-{"key":"csp_YQKAPP","name":"🍀Live| Watching together🍀","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
+//{"key":"csp_YQKAPP","name":"🍀Live| Watching together🍀","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz","jar":""},
 {"key":"csp_Biliyy","name":"🍀Bili| Musics🍁","type":3,"api":"csp_Biliyy","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/qingying2022/qingying/-/raw/main/p/biliyy.js"},
 //{"key":"js_douban","name":"JS| Films recommend","type":3,"api":"https://gitlab.com/qingying2022/qingying/-/raw/main/JS/lib/drpy.min.js","ext":"https://gitlab.com/qingying2022/qingying/-/raw/main/JS/js/drpy.js"},
 {"key":"T4_public","name":"T4| Films recommend","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -29,14 +29,14 @@
 {"key":"csp_Dy555","name":"🍀SP| 555 films🍀","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍀SP| Double BTs🍀","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🍀SP| Films factory🍀_极速蓝光/官源","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🍀SP| Drawings🍀","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.11.9:6618","jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
-{"key":"csp_Czsapp","name":"🍀SP| Director🍀","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
+{"key":"csp_AppTT","name":"🍀SP| Drawings🍀","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788/"},
+{"key":"csp_Czsapp","name":"🍀SP| Director🍀","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
 {"key":"csp_Yj1211","name":"🍀Live| Just live🍀","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LocalFile","name":"🍀Local| Local Files🍀","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🍀Anime| Anime bus🍀","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DM77","name":"🍁Anime| 77 Anime🍀","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
-//{"key":"csp_Anfuns","name":"🍁Anime| Anfuns🍀_播放列表1/2","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_DM77","name":"🍁Anime| 77 Anime🍀","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":""},
+{"key":"csp_Anfuns","name":"🍁Anime| Anfuns🍀_播放列表1/2","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🍁Anime| Anime🍁","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🍁Parse| 360🍁","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🍁Parse| Mango TV🍁","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
@@ -54,11 +54,11 @@
 {"key":"csp_Dy1010","name":"🍁SP| Double tens🍀_多多云","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"🍁SP| Shows desolate🍀","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"🍁SP| Blue-Ray cinema🍀","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MianHua","name":"🍁SP| Cotton films🍀","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
-{"key":"csp_YaNetFlix","name":"🍁SP| YaNetFlix🍁","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
-{"key":"csp_NikeTV","name":"🍁SP| Nike TV🍁","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
-{"key":"csp_ShiLiuDY","name":"🍁SP| Pomegranate films🍁","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://code.gitlink.org.cn/qingying/img/raw/branch/master/2.jpg;md5;e3f1a10099611223738e86beb3e859c1"},
-{"key":"csp_LiteApple","name":"🍁🍁SP| Lite apple🍁","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_MianHua","name":"🍁SP| Cotton films🍀","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":""},
+//{"key":"csp_YaNetFlix","name":"🍁SP| YaNetFlix🍁","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":""},
+//{"key":"csp_NikeTV","name":"🍁SP| Nike TV🍁","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":""},
+//{"key":"csp_ShiLiuDY","name":"🍁SP| Pomegranate films🍁","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":""},
+//{"key":"csp_LiteApple","name":"🍁🍁SP| Lite apple🍁","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xb_voflix","name":"🍀XB| Voflix🍀","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/qingying2022/qingying/-/raw/main/b/voflix.js"},
 {"key":"csp_XBiubiu_蓝光影视","name":"🍀XB| Blue-Ray films🍀","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/qingying2022/qingying/-/raw/main/b/b02-lgys.js"},
@@ -78,15 +78,11 @@
 ],
 
 "parses":[
-{"name":"Json Concurrence","type":2,"url":"Parallel"},
+//{"name":"Json Concurrence","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Web Polymerization","type":3,"url":"Web"},
-{"name":"tutu","type":1,"url":"http://45.207.11.9:7728/api.php?url="},
-//360_im_fhd
 {"name":"kxjx","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 //360_im_fhd
-{"name":"Leaf","type":1,"url":"https://api.leafone.cn/api/jx?url="},
-//360_qq/iq_fhd
 {"name":"bozrc(iq/imgo)","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 //360_q_sd/360_le_sd/360_im_fhd/360_iq_fhd
 {"name":"zui(qq)","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
